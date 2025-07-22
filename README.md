@@ -1,4 +1,4 @@
 # AgenticAI
 This is my git for AgenticAI
 <br>
-Author - Jay Prakash Kumar
+Author - Jay Prakash Kumar (AgenticAI)
